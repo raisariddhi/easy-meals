@@ -34,4 +34,4 @@ EasyMeals was created with the input of college students who fit the target demo
 
 By offering a customizable meal calendar, grocery list management, and an ingredient-based recipe search, EasyMeals empowers college students to effortlessly plan, shop for, and prepare meals. This app is a testament to the dedication to meeting the needs and preferences of college students who cook their meals, making their cooking process more efficient and enjoyable.
 
-**EasyMeals: Cooking Made Easy for College Students.**
+**[EasyMeals: Cooking Made Easy for College Students](https://www.figma.com/proto/d3grPInkYXJZabTRPOidNp/Individual-Assignment-2?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=m1j8zA6oGlhjS1NE-1)**
