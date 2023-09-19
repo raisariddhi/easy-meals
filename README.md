@@ -1,47 +1,37 @@
-# Easy Meals - Meal Prep Mobile Interface Prototype
+# EasyMeals: The Ultimate Mobile Interface App for College Students
 
-This repository contains the files and documentation for the Meal Prep mobile interface prototype. This project aims to create a user-friendly mobile app to assist college students in planning meals, finding recipes, and locating nearby grocery stores for convenient ingredient shopping.
+**[EasyMeals](https://www.figma.com/proto/d3grPInkYXJZabTRPOidNp/Individual-Assignment-2?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=m1j8zA6oGlhjS1NE-1)** is a mobile app designed to simplify the lives of busy college students living in on-campus apartments who wish to cook their meals while optimizing their time. This mobile interface app caters to the unique needs and time constraints faced by college students by providing a range of features, including efficient meal planning, streamlined grocery shopping, quick and relevant recipe searches, reduced food waste, and the ability to locate nearby grocery stores.
 
-## User Research
+## Features
 
-### Target Audience
-The target audience for this prototype consists of college students living in on-campus apartments who frequently cook their own meals to save time and money.
+### Customizable Meal Calendar
 
-### Research Methodology
-To gather insights and requirements from the target audience, I conducted a user survey using a Google Form. The survey was distributed to college students who cook their own meals regularly. From the survey responses, I selected two participants who best represented the target audience's needs and preferences.
+EasyMeals offers a customizable meal calendar, allowing students to efficiently plan their breakfast, lunch, and dinner for any day. This feature promotes organization and time-saving, ensuring students have healthy, home-cooked meals readily available.
 
-## Cultural Probe
+### Grocery List Management
 
-### Probe Design
-The cultural probe used for this study was a Google Form titled "Cultural Probe - Meal Prep." It aimed to collect data about participants' meal planning habits, grocery shopping frequency, recipe search behavior, and their opinions on potential features for a meal prep mobile app. The form consisted of the following questions:
+The grocery list feature enables users to easily add or remove ingredients for their shopping trips. This tool ensures that students are fully prepared for their cooking endeavors and helps them avoid last-minute grocery store runs.
 
-- Participant's name
-- Current meal situation (options included not knowing what to cook, needing a recipe, or knowing exactly what to cook)
-- Frequency of cooking meals per week
-- Frequency of grocery shopping
-- Number of meals cooked at once
-- Frequency of searching for meal ideas online
-- Ratings for the usefulness of two potential app features:
-  - Showing recipes based on available ingredients
-  - Finding nearby grocery stores for specific ingredients
+### Ingredient-Based Recipe Search
 
-### Data Collection
-Participants were asked to fill out the form daily for a week, providing insights into their meal planning and cooking routines.
+EasyMeals simplifies the process of finding recipes based on specific ingredients or meals. Users can search for an ingredient, and the app displays meals containing that ingredient. This feature streamlines the cooking process, reduces food waste, and encourages culinary exploration.
 
-## Prototype Development
+## [User Research](research)
 
-### App Features
-Based on the data collected from the cultural probe, the Meal Prep mobile app prototype will include the following features:
+To develop EasyMeals, extensive user research was conducted, including a [cultural probe](research) and interviews with college students John Doe and Jane Doe, who perfectly represent the target audience. They expressed a strong desire for an app that helps them utilize existing ingredients, reducing the need for frequent grocery shopping. Both John and Jane highlighted the importance of knowing what meal to prepare in advance.
 
-1. **Recipe Recommendation**: The app will suggest recipes based on the ingredients users have in their kitchen. Users can input available ingredients, and the app will provide recipe suggestions.
+## User Insights
 
-2. **Grocery Store Locator**: Users can search for specific ingredients, and the app will display nearby grocery stores where they can purchase those ingredients.
+The interviews with John and Jane provided valuable insights, including:
 
-### Design and User Interface
-The app's design will prioritize user-friendliness and simplicity. It will have an intuitive interface for easy navigation.
+- The need for a free-to-use app.
+- Inclusion of culturally specific ingredients.
+- Access to recipes from diverse cultural backgrounds and regions.
 
-## Feedback and Contributions
+## Conclusion
 
-Feedback and contributions to this project are highly encouraged. If you have suggestions, find bugs, or want to contribute to the development, please open an issue or submit a pull request.
+EasyMeals was created with the input of college students who fit the target demographic – those who want to cook often but save time. This app addresses the challenges faced by college students, ensuring they can balance their academic responsibilities with cooking healthy meals.
 
-Thank you for your interest in the Meal Prep mobile interface prototype! Together, we can create a helpful tool for college students looking to streamline their meal planning and cooking process.
+By offering a customizable meal calendar, grocery list management, and an ingredient-based recipe search, EasyMeals empowers college students to effortlessly plan, shop for, and prepare meals. This app is a testament to the dedication to meeting the needs and preferences of college students who cook their meals, making their cooking process more efficient and enjoyable.
+
+**EasyMeals: Cooking Made Easy for College Students.**
