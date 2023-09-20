@@ -10,7 +10,7 @@ To gather insights and requirements from the target audience, I conducted a user
 
 ## Cultural Probe
 
-**[Click here to see the Cultural Probe(Google Form)](https://forms.gle/Vbw1L6RHuQhrx16i7)
+**[Click here to see the Cultural Probe(Google Form)](https://forms.gle/Vbw1L6RHuQhrx16i7)**
 
 ### Probe Design
 The cultural probe used for this study was a Google Form titled "Cultural Probe - Meal Prep." It aimed to collect data about participants' meal planning habits, grocery shopping frequency, recipe search behavior, and their opinions on potential features for a meal prep mobile app. The form consisted of the following questions:
