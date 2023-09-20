@@ -6,7 +6,17 @@
 
 To develop EasyMeals, extensive [user research](research) was conducted, including a [cultural probe](research) and interviews with college students John Doe and Jane Doe, who perfectly represent the target audience. They expressed a strong desire for an app that helps them utilize existing ingredients, reducing the need for frequent grocery shopping. Both John and Jane highlighted the importance of knowing what meal to prepare in advance.
 
-## Features
+## [Brainstorming](brainstorming)
+
+The [brainstorming phase](brainstorming) for the EasyMeals mobile app laid the foundation for its development. By collecting user stories and insights, we identified key features and functionalities essential for addressing the needs and preferences of college students seeking an efficient meal planning and cooking solution.
+
+## [Low Fidelity Prototype](prototyping)
+
+The process of developing [low-fidelity (lo-fi) prototypes](prototyping) for the EasyMeals mobile app played a crucial role in conceptualizing and visualizing the app's user interface and functionality. These initial sketches and wireframes provided a foundation for more detailed design iterations and user testing. 
+
+The lo-fi prototyping process began by referencing user stories, specifically those of John Doe and Jane Doe, two college students seeking a convenient cooking solution. These stories guided the creation of lo-fi sketches that aimed to address their needs and preferences.
+
+## [Features: Final Prototype](final-prototype)
 
 ### Customizable Meal Calendar
 
