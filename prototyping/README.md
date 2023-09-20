@@ -6,13 +6,19 @@ The low-fidelity prototypes for the EasyMeals mobile app were crafted by transla
 
 *Please note that these low-fidelity prototypes represent an initial design stage, and the final design may evolve through user feedback and usability testing.*
 
-[![Prototype Sketches](figures/1a.png)
-[![Prototype Sketches](figures/1a.png)
+### Landing Page and Grocery List
 
-[![Prototype Sketches](figures/2a.png)
-[![Prototype Sketches](figures/2b.png)
+![Prototype Sketches](figures/1a.png)
+![Prototype Sketches](figures/1a.png)
 
-[![Prototype Sketches](figures/3a.png)
-[![Prototype Sketches](figures/3b.png)
+### Ingredient-Based Recipe Search
+
+![Prototype Sketches](figures/2a.png)
+![Prototype Sketches](figures/2b.png)
+
+### Customizable Meal Calendar
+
+![Prototype Sketches](figures/3a.png)
+![Prototype Sketches](figures/3b.png)
 
 ---
