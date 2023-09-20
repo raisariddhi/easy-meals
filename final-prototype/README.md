@@ -4,7 +4,7 @@
 
 The [high-fidelity prototype for the EasyMeals mobile app](https://www.figma.com/proto/d3grPInkYXJZabTRPOidNp/Individual-Assignment-2?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=m1j8zA6oGlhjS1NE-1) was developed through a comprehensive design process. The journey began with a thorough understanding of user needs, as outlined in the previously created low-fidelity prototypes and user stories of John Doe and Jane Doe. These insights were the foundation for crafting a visually appealing and user-friendly prototype that aimed to address the specific requirements and preferences of college students seeking an efficient meal planning and cooking solution.
 
-[Explore High-Fidelity Prototype](https://www.figma.com/proto/d3grPInkYXJZabTRPOidNp/Individual-Assignment-2?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=m1j8zA6oGlhjS1NE-1)
+[Explore High-Fidelity Prototype on Figma](https://www.figma.com/proto/d3grPInkYXJZabTRPOidNp/Individual-Assignment-2?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=m1j8zA6oGlhjS1NE-1)
 
 ## Design Process
 
