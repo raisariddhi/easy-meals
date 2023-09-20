@@ -35,4 +35,17 @@ Your feedback and contributions are highly valuable in enhancing the EasyMeals m
 
 Some screenshots from the High-Fidelity Prototype:
 
+![Landing](figures/landing.png)
+
+![Calendar](figures/calendar1.png)
+![Calendar](figures/calendar2.png)
+![Calendar](figures/calendar3.png)
+
+![Grocery List](figures/todo1.png)
+![Grocery List](figures/todo2.png)
+
+![Search](figures/search1.png)
+![Search](figures/search2.png)
+![Search](figures/search3.png)
+
 ---
