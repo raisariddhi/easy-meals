@@ -4,6 +4,8 @@
 
 The [high-fidelity prototype for the EasyMeals mobile app](https://www.figma.com/proto/d3grPInkYXJZabTRPOidNp/Individual-Assignment-2?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=m1j8zA6oGlhjS1NE-1) was developed through a comprehensive design process. The journey began with a thorough understanding of user needs, as outlined in the previously created low-fidelity prototypes and user stories of John Doe and Jane Doe. These insights were the foundation for crafting a visually appealing and user-friendly prototype that aimed to address the specific requirements and preferences of college students seeking an efficient meal planning and cooking solution.
 
+[Explore High-Fidelity Prototype](https://www.figma.com/proto/d3grPInkYXJZabTRPOidNp/Individual-Assignment-2?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=m1j8zA6oGlhjS1NE-1)
+
 ## Design Process
 
 1. **User Research:** The design process commenced with user research, incorporating feedback and insights gained from the low-fidelity prototypes. This research was vital in understanding user behaviors, pain points, and expectations related to meal planning, grocery shopping, and recipe selection.
@@ -31,7 +33,6 @@ The high-fidelity prototype in the "final-prototype" folder showcases several ke
 
 Your feedback and contributions are highly valuable in enhancing the EasyMeals mobile app. Feel free to explore the high-fidelity prototype, provide feedback on usability, design elements, and overall user experience. Together, we can refine and optimize the app to cater to the specific needs of college students seeking a convenient and efficient cooking solution.
 
-[Explore High-Fidelity Prototype](https://www.figma.com/proto/d3grPInkYXJZabTRPOidNp/Individual-Assignment-2?node-id=6-1162&starting-point-node-id=6%3A1162&mode=design&t=m1j8zA6oGlhjS1NE-1)
 
 Some screenshots from the High-Fidelity Prototype:
 
