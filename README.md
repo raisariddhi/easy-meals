@@ -8,17 +8,28 @@
 
 EasyMeals offers a customizable meal calendar, allowing students to efficiently plan their breakfast, lunch, and dinner for any day. This feature promotes organization and time-saving, ensuring students have healthy, home-cooked meals readily available.
 
+![Calendar](figures/calendar1.png)
+![Calendar](figures/calendar2.png)
+![Calendar](figures/calendar3.png)
+
 ### Grocery List Management
 
 The grocery list feature enables users to easily add or remove ingredients for their shopping trips. This tool ensures that students are fully prepared for their cooking endeavors and helps them avoid last-minute grocery store runs.
+
+![Grocery List](figures/todo1.png)
+![Grocery List](figures/todo2.png)
 
 ### Ingredient-Based Recipe Search
 
 EasyMeals simplifies the process of finding recipes based on specific ingredients or meals. Users can search for an ingredient, and the app displays meals containing that ingredient. This feature streamlines the cooking process, reduces food waste, and encourages culinary exploration.
 
+![Search](figures/search1.png)
+![Search](figures/search2.png)
+![Search](figures/search3.png)
+
 ## [User Research](research)
 
-To develop EasyMeals, extensive user research was conducted, including a [cultural probe](research) and interviews with college students John Doe and Jane Doe, who perfectly represent the target audience. They expressed a strong desire for an app that helps them utilize existing ingredients, reducing the need for frequent grocery shopping. Both John and Jane highlighted the importance of knowing what meal to prepare in advance.
+To develop EasyMeals, extensive [user research](research) was conducted, including a [cultural probe](research) and interviews with college students John Doe and Jane Doe, who perfectly represent the target audience. They expressed a strong desire for an app that helps them utilize existing ingredients, reducing the need for frequent grocery shopping. Both John and Jane highlighted the importance of knowing what meal to prepare in advance.
 
 ## User Insights
 
